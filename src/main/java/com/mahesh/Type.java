@@ -11,7 +11,7 @@ public enum Type {
   S("SCISSOR", 2),
   N("NONE", -1);
 
-  private static final Map<Integer, Type> typeHashMap = new HashMap<Integer, Type>();
+  private static final Map<Integer, Type> typeHashMap = new HashMap<>();
 
   static {
     for (Type type : Type.values()) {

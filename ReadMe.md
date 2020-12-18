@@ -2,7 +2,7 @@ This is a standalone application to play ROCK PAPER SCISSORS game which basicall
 
 To Run the application you can run either run.bat or run.sh in terminal
 
-It has JUnit4 as a maven dependency
+It has JUnit5 and  as a maven dependency
 
 The application by default uses bobs_crypto.txt file in resources folder, you can modify and rerun
 
